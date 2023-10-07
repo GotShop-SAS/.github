@@ -1,6 +1,8 @@
 # Bienvenidos a Gotshop
 
-![Logo](https://info.gotshop.mx/icono.png)
+<p align="center">
+  <img src="https://info.gotshop.mx/icono.png" alt="Logo de Gotshop" width="150">
+</p>
 
 En **Gotshop**, estamos comprometidos a ofrecer soluciones de software de alta calidad que cubran todas tus necesidades empresariales. Nuestro equipo de expertos en software posee una amplia experiencia y conocimientos en el desarrollo de soluciones tecnológicas de vanguardia.
 
